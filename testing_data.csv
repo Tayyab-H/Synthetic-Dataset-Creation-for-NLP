@@ -1,0 +1,46 @@
+input,label
+return the latest email,1
+return the latest message,1
+return the last email,1
+return the last message,1
+return the latest email body,1
+what is the latest email,1
+what is the latest message,1
+what is the last email,1
+what is the last message,1
+what is the latest email body,1
+I need the latest email,1
+I need the latest message,1
+I need the last message,1
+I need the latest email body,1
+I need the latest email,1
+return the subject of latest email,2
+return the subject of last email,2
+return the topic of last email,2
+what is the the latest email concerning,2
+what is the  title of the last email,2
+I need the subject of latest email,2
+I need the subject of last email,2
+I need the topic of last email,2
+I need the topic the latest email is concerning,2
+I need the title of the last email,2
+Give me the subject of latest email,2
+Give me the subject of last email,2
+Give me the topic of last email,2
+Give me the concern of the latest email,2
+Give me the title of the last email,2
+I need the Attachments of the latest email,3
+I need the files attached,3
+I need the last files,3
+I need the latest links,3
+I need the latest documents,3
+Give me the attachments of the latest email,3
+Give me the files attached,3
+Give me the last files,3
+Give me the latest links,3
+Give me the latest documents,3
+what are the attachments of the latest email,3
+what are the files attached,3
+what are the last files,3
+what are the latest links,3
+what are the latest documents,3
