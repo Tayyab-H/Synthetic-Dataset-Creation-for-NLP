@@ -6,4 +6,3 @@ The pretrained google word2vec is not included in the git repository due to size
 https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
 
 
-Paper coming soon
