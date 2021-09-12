@@ -8,9 +8,15 @@ https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
 Dependancies: 
 
 Numpy
+
 Keras, tensorflow
+
 Gensim
+
 win32com (Only for email access)
+
 Pandas
+
 pyttsx3
+
 sklearn
