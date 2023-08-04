@@ -1,6 +1,6 @@
 # Synthetic-Dataset-Creation-for-NLP
 
-Using the power of word2vec, the notebooks showcase how to create synthetic NLP data for classification from a very small basic balanced manually inputted dataset. It is capable of expanding an NLP dataset of only 30 samples to one of over 1000 samples. This is powerful for specific NLP tasks.
+Using the power of word2vec, the notebooks showcase how to create synthetic NLP data for classification from a very small basic balanced manually inputted dataset. It is capable of expanding an NLP dataset of only 30 samples to one of over 1000 samples. This is powerful for specific NLP tasks. A copy of the paper is included in the repository. I highly recommend reading it before proceeding as it gives context for the project.
 
 Install all dependancies using:
 ```
