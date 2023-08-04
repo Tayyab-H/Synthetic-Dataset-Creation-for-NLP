@@ -11,7 +11,7 @@ OR
 
 Run the first cells in each ipynb notebook.
 
-Run the dataset creation notebook using whichever notebook program you prefer (We used Jupyter-lab but vscode, google colab work equally well).
+Run the dataset creation notebook using whichever notebook program you prefer (I used Jupyter-lab but vscode, google colab work equally well).
 Run the Dataset Creation with:
 
 ```jupyter-lab DatasetCreation.ipynb ```
